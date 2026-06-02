@@ -1,4 +1,4 @@
-# ---azkar-judi# 🕋 Zikri Judi - Islamic Azkar App
+# 🕋 Zikri Judi - Islamic Azkar App
 
 A lightweight and user-friendly Islamic application designed for Android devices, providing daily Azkar and authentic Duas in Kurdish, Arabic, and English.
 
@@ -22,12 +22,11 @@ The official app is available for Android devices. You can download it directly 
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Preview
 
+You can view the main interface design of the application here:
 
-| Home Screen | Morning Azkar | Settings |
-|---|---|---|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/azkar.png" width="200"> | <img src="screenshots/settings.png" width="200"> |
+App Screenshot: [screenshot.jpg](screenshot.jpg)
 
 ---
 
@@ -37,9 +36,24 @@ The official app is available for Android devices. You can download it directly 
 - **Database:** SQLite / Hive (For offline data storage)
 - **UI Framework:** Material Design 3
 
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com
+```
+
+2. Navigate to the project directory:
+```bash
+cd zikri-judi
+```
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
