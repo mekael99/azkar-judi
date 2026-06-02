@@ -22,15 +22,7 @@ The official app is available for Android devices. You can download it directly 
 
 👉 **[Download Zikri Judi on Google Play Store](https://play.google.com/store/apps/details?id=com.azkarjudi)**
 
----
 
-## 📸 Application Preview
-
-You can view the main interface design of the application here:
-
-App Screenshot: [screenshot.jpg](screenshot.jpg)
-
----
 
 ## 🛠️ Tech Stack
 
