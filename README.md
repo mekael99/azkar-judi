@@ -18,7 +18,7 @@ A lightweight and user-friendly Islamic application designed for Android devices
 
 The official app is available for Android devices. You can download it directly from the Google Play Store:
 
-👉 **[Download Zikri Judi on Google Play Store](https://google.com)**
+👉 **[Download Zikri Judi on Google Play Store]([https://google.com](https://play.google.com/store/apps/details?id=com.azkarjudi&hl=ar))**
 
 ---
 
