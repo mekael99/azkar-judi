@@ -7,10 +7,12 @@ A lightweight and user-friendly Islamic application designed for Android devices
 ## ✨ Features
 
 - 🌍 **Multilingual Support**: Fully translated into Kurdish, Arabic, and English.
-- ☀️ **Daily Azkar**: Quick access to Morning, Evening, and Post-Prayer Azkar.
-- 📿 **Electronic Tasbih**: Built-in digital counter to easily track your dhikr.
-- 🌙 **Dark Mode**: Optimized UI for comfortable reading during the night.
-- 📴 **100% Offline**: Access all core text and features without an internet connection.
+- ☀️ **Daily Azkar**: Quick access to Morning and Evening Zikr.
+- 📜 **Prophet & Quran Duas**: Includes authentic supplications from the Holy Quran and the Prophet (ﷺ).
+- 🏷️ **99 Names of Allah**: Beautifully listed with multi-language support.
+- 🔔 **Daily Notifications**: Stay reminded with timely daily alerts.
+- 🩹 **Sickness Azkar**: Specialized supplications for healing and illness.
+- 🔊 **Kurdish Reading Support**: Audio or text-based Kurdish recitation guidance.
 
 ---
 
@@ -18,7 +20,7 @@ A lightweight and user-friendly Islamic application designed for Android devices
 
 The official app is available for Android devices. You can download it directly from the Google Play Store:
 
-👉 **[Download Zikri Judi on Google Play Store](**[https://google.com](https://play.google.com/store/apps/details?id=com.azkarjudi&hl=ar))**
+👉 **[Download Zikri Judi on Google Play Store](https://play.google.com/store/apps/details?id=com.azkarjudi)**
 
 ---
 
@@ -35,22 +37,6 @@ App Screenshot: [screenshot.jpg](screenshot.jpg)
 - **Language:** Kotlin / Dart (Flutter)
 - **Database:** SQLite / Hive (For offline data storage)
 - **UI Framework:** Material Design 3
-
----
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. Clone the repository:
-```bash
-git clone https://github.com
-```
-
-2. Navigate to the project directory:
-```bash
-cd zikri-judi
-```
 
 ---
 
